@@ -31,7 +31,7 @@
 | 3.            |         **            |  **     |
 
 
-#### Acceptance Criteria
+#### Acceptance criteria
 
 {Conditions needed to satisfy requirements}
 
