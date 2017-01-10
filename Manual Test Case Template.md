@@ -23,13 +23,6 @@ Short Description: {What's the purpose of the test}
 
 ## Instructions
 
-| Step No.      | Short Desription            | Cool  |
-| ------------- |:-------------:               -----:|
-| 1.            | what a tester should do     |       |
-| 2.            | centered                    |       |
-| 3.            | are neat                    |     |
-
-
 <table>
 <tr><th>Step No.</th><th>Short Description</th><th>Expected result</th></tr>
 <tr><td>1.</td>
