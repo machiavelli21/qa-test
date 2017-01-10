@@ -1,4 +1,4 @@
-Objective: {what's the purpose of the test}
+Short Description: {What's the purpose of the test}
 
 # Environment
 
