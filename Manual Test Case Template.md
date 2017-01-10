@@ -26,7 +26,7 @@
 
 | Step No.      | Short Description           | Expected Result  |
 | ------------- |:-------------:              |:-----:|
-| 1.            | {What a tester should do}     | {what a tester should see when they do that}   |
+| 1.            | {what a tester should do}     | {what a tester should see when they do that}   |
 | 2.            |         **           |  **     |
 | 3.            |         **            |  **     |
 
