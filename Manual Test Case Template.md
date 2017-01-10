@@ -11,7 +11,7 @@
 
 ## Direct URL(s)
 
-1. {URLs that will be used in the test steps}
+{URLs that will be used in the test steps}
 
 ## Input data
 
@@ -33,7 +33,7 @@
 
 ## Acceptance Criteria
 
-1. {Conditions needed to satisfy requirements>}
+{Conditions needed to satisfy requirements>}
 
 ### Notes
 
