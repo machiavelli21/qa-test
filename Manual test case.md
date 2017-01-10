@@ -29,6 +29,10 @@ Objective: {what's the purpose of the test}
 <tr><td>1.</td><td>{what a tester should do}</td><td>{what a tester should see when they do that}</td></tr>
 </table>
 
+# Acceptance Criteria
+
+1. {Conditions needed to satisfy requirements>}
+
 # Notes
 
 * {any notes}
