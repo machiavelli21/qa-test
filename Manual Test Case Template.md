@@ -33,7 +33,7 @@
 
 ## Acceptance Criteria
 
-{Conditions needed to satisfy requirements>}
+{Conditions needed to satisfy requirements}
 
 ### Notes
 
