@@ -25,7 +25,7 @@ Short Description: {What's the purpose of the test}
 # Instructions
 
 <table>
-<tr><th>Step No.</th><th>Step description</th><th>Expected result</th></tr>
+<tr><th>Step No.</th><th>Short Description</th><th>Expected result</th></tr>
 <tr><td>1.</td><td>{what a tester should do}</td><td>{what a tester should see when they do that}</td></tr>
 </table>
 
