@@ -1,20 +1,20 @@
-### Summary of Issue
+## Summary of Issue
 
-### Impact:
+#### Impact:
 
-### Date & Time of Occurrence:#
+#### Date & Time of Occurrence:#
 
-### Defect Type: `Cosmetic, Functional, Performance`
+#### Defect Type: `Cosmetic, Functional, Performance`
 
-### Impacted Area(s): `Pushbot Creation, Completing Tasks, Admin, Integrations, Team Access`
+#### Impacted Area(s): `Pushbot Creation, Completing Tasks, Admin, Integrations, Team Access`
 
-### Steps to Reproduce:
+#### Steps to Reproduce:
 
-### Expected Results:
+#### Expected Results:
 
-### Observed Results:
+#### Observed Results:
 
-### Describe workaround (if any):
+#### Describe workaround (if any):
 
 
 ----------
