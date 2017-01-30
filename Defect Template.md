@@ -1,8 +1,8 @@
-Summary of Issue
+### Summary of Issue
 
-Impact:
+### Impact:
 
-Date & Time of Occurrence:
+### Date & Time of Occurrence:#
 
 Defect Type: `Cosmetic, Functional, Performance`
 
